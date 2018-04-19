@@ -1,0 +1,67 @@
+﻿<div id="page-wrapper">
+
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Tạo tài khoản từ danh sách file</h1>
+        </div>
+    </div>
+    <div>
+
+        <center>
+            <div>
+                <img width="300px" src="https://www.betternonprofits.org/getattachment/Account/Student-Icon.gif" />
+
+                <label class="btn btn-warning " for="fileToUpload" class="custom-file-upload">
+                    Chọn file
+                </label>
+                <input type="file" name="f" id="fileToUpload" onchange="changeInput()" style="display:none">
+            </div>
+            <div style="font-size:20px" id="processUpload"></div>
+        </center>
+
+        <form action="/Excel/execute" method="post" enctype="multipart/form-data">
+            <hr />
+            <input type="text" name="textfile" id="textfile" style="display:none">
+            <input style="widows:100px; height:100px" class="btn btn-success pull-right" type="submit" accept=".xls,.xlsx" value="Thực hiện" name="upload">
+        </form>
+    </div>
+    <script>
+        function changeInput() {
+            var file = document.getElementById('fileToUpload').files[0];
+
+            sendFile(file);
+        }
+        var strFileChoose = null;
+        function sendFile(file) {
+
+            var uri = "/Excel/Upload";
+            var xhr = new XMLHttpRequest();
+            var fd = new FormData();
+
+            xhr.open("POST", uri, true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    strFileChoose = xhr.responseText.replace(/\"/g, "");
+
+                    document.getElementById('textfile').value = strFileChoose;
+
+                }
+            };
+
+            xhr.upload.addEventListener("progress", function (e) {
+                if (e.lengthComputable) {
+                    var percentage = Math.round((e.loaded * 100) / e.total);
+                    document.getElementById('processUpload').innerHTML = percentage + "%";
+                }
+            }, false);
+
+            fd.append('file', file);
+
+            xhr.send(fd);
+        }
+
+    </script>
+
+
+</div>
+

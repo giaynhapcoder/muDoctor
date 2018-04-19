@@ -1,0 +1,83 @@
+﻿@model PATIENT_UD
+<div id="page-wrapper">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Nhân viên</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Thông tin nhân viên
+                </div>
+                <div class="panel-body">
+                    <form role="form" action="/USER/Add" method="POST">
+                        <input type="hidden" name="Id" value="@Model.id" />
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="form-group">
+                                    <label>Tên</label>
+                                    @Html.TextBoxFor(x => x.full_name, new { @class = "form-control", @placeholder = "Tên", @required = "required" })
+                                </div>
+                                <div class="form-group">
+                                    <label>Ngày sinh</label>
+                                    @Html.TextBoxFor(x => x.dob, new { @class = "form-control", @placeholder = "Ngày sinh" })
+                                </div>
+                                <div class="form-group">
+                                    <label>Giới tính</label>
+                                    @Html.TextBoxFor(x => x.sex_id, new { @class = "form-control", @placeholder = "Giới tính" })
+                                </div>
+                                <div class="form-group">
+                                    <label>Mô tả</label>
+                                    @Html.TextAreaFor(x => x.info_p, new { @class = "form-control", @placeholder = "Mô tả" })
+                                </div>
+
+                                <div class="form-group">
+                                    <label>Tỉnh thành</label>
+                                    @if (ViewBag.ListPROVINCE != null)
+                                    {
+                                        @Html.DropDownList("province_id", (IEnumerable<SelectListItem>)ViewBag.ListPROVINCE, "- Tỉnh thành -", new { @class = "form-control", @required = "required" })
+                                    }
+                                </div>
+                                <div class="form-group">
+                                    <label>Địa chỉ</label>
+                                    @Html.TextBoxFor(x => x.address, new { @class = "form-control", @placeholder = "Địa chỉ" })
+                                </div>
+                                <div class="form-group">
+                                    <label>Longitude</label>
+                                    @Html.TextBoxFor(x => x.longitude, new { @class = "form-control", @placeholder = "Longitude" })
+                                </div>
+                                <div class="form-group">
+                                    <label>latitude</label>
+                                    @Html.TextBoxFor(x => x.latitude, new { @class = "form-control", @placeholder = "latitude" })
+                                </div>
+                                @*<div class="form-group">
+                    <label>Hình ảnh</label>
+                e="avartar" value="@Model.avartar" id="avartar" />
+                    <input type="file" name="file" id="fileupload" up-type="avt" ip-h="avartar">
+                    <div id="progress-wrp" style="display: none">
+                        <div class=    <img id="preview-avartar" src="@(string.IsNullOrWhiteSpace(Model.avartar) ? "/Uploads/no-images.png" : Model.avartar)" width="50px" style="display: block; padding-bottom: 3px;" />
+                    <input type="hidden" nam"progress-bar"></div>
+                        <div class="status">0%</div>
+                    </div>
+                </div>*@
+                                <div class="form-group">
+                                    <label>Trạng thái</label>
+                                    @Html.DropDownListFor(x => x.status, HtmlExtensions.ToSelectList<StatusGlobal>(), new { @class = "form-control" })
+                                </div>
+                            </div>
+                        </div>                   
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <button type="submit" class="btn btn-primary">Cập nhập</button>
+                                <button type="reset" class="btn btn-default">Làm mới</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

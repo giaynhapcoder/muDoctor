@@ -1,0 +1,86 @@
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Debug\Kaio.Web.UI.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Debug\Kaio.Web.UI.pdb
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Debug\MongoDB.Bson.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Debug\MongoDB.Driver.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Debug\Newtonsoft.Json.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Debug\System.Web.Mvc.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Debug\MongoDB.Bson.xml
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Debug\MongoDB.Driver.xml
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Debug\Newtonsoft.Json.xml
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Debug\System.Web.Mvc.xml
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Release\Kaio.Web.UI.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Release\Kaio.Web.UI.pdb
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Release\MongoDB.Bson.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Release\MongoDB.Driver.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Release\Newtonsoft.Json.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Release\System.Web.Mvc.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Release\MongoDB.Bson.xml
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Release\MongoDB.Driver.xml
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Release\Newtonsoft.Json.xml
+D:\Project\NET\Titwitter\Kaio.Web.UI\bin\Release\System.Web.Mvc.xml
+D:\Project\NET\Titwitter\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.dll
+D:\Project\NET\Titwitter\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.pdb
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\bin\Release\Kaio.Web.UI.dll
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\bin\Release\Kaio.Web.UI.pdb
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\bin\Release\MongoDB.Bson.dll
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\bin\Release\MongoDB.Driver.dll
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\bin\Release\Newtonsoft.Json.dll
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\bin\Release\System.Web.Mvc.dll
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\bin\Release\MongoDB.Bson.xml
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\bin\Release\MongoDB.Driver.xml
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\bin\Release\Newtonsoft.Json.xml
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\bin\Release\System.Web.Mvc.xml
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.csprojResolveAssemblyReference.cache
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.dll
+C:\Project\Works\Smart Parking\SParking\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.pdb
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\bin\Release\Kaio.Web.UI.dll
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\bin\Release\Kaio.Web.UI.pdb
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\bin\Release\MongoDB.Bson.dll
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\bin\Release\MongoDB.Driver.dll
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\bin\Release\Newtonsoft.Json.dll
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\bin\Release\System.Web.Mvc.dll
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\bin\Release\MongoDB.Bson.xml
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\bin\Release\MongoDB.Driver.xml
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\bin\Release\Newtonsoft.Json.xml
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\bin\Release\System.Web.Mvc.xml
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.csprojResolveAssemblyReference.cache
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.dll
+D:\Project\ITHANH\Smart Parking\SParking\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.pdb
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\bin\Release\Kaio.Web.UI.dll
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\bin\Release\Kaio.Web.UI.pdb
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\bin\Release\MongoDB.Bson.dll
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\bin\Release\MongoDB.Driver.dll
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\bin\Release\Newtonsoft.Json.dll
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\bin\Release\System.Web.Mvc.dll
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\bin\Release\MongoDB.Bson.xml
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\bin\Release\MongoDB.Driver.xml
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\bin\Release\Newtonsoft.Json.xml
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\bin\Release\System.Web.Mvc.xml
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.csprojResolveAssemblyReference.cache
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.dll
+D:\Project\zMenuapp\zMenuManager\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.pdb
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\bin\Release\Kaio.Web.UI.dll
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\bin\Release\Kaio.Web.UI.pdb
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\bin\Release\MongoDB.Bson.dll
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\bin\Release\MongoDB.Driver.dll
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\bin\Release\Newtonsoft.Json.dll
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\bin\Release\System.Web.Mvc.dll
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\bin\Release\MongoDB.Bson.xml
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\bin\Release\MongoDB.Driver.xml
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\bin\Release\Newtonsoft.Json.xml
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\bin\Release\System.Web.Mvc.xml
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.dll
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.pdb
+D:\Project\UDocter\mUDocter\Kaio.Web.UI\obj\Debug\Kaio.Web.UI.csprojResolveAssemblyReference.cache

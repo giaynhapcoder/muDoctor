@@ -1,0 +1,36 @@
+﻿<#@ template hostspecific="True"  #>
+<#@ output extension=".cs" #>
+<#@ include file="SQLServer.ttinclude" #><#
+    var sps = GetSPs(); 
+	if(sps.Count>0){ 
+#>  
+using System;
+using SubSonic.Schema;
+using System.Data;
+namespace <#=Namespace#>{
+	public partial class <#=DatabaseName#>DB{
+
+<#  foreach(var sp in sps){#>
+        public StoredProcedure <#=sp.CleanName#>(<#=sp.ArgList#>){
+            var sp=new StoredProcedure("<#=sp.Name#>",Provider);
+<#      foreach(var par in sp.Parameters){
+           if (par.IsOutput)
+			{						
+			#>	
+				sp.Command.AddOutputParameter("<#=par.Name#>",DbType.<#=par.DbType#>);
+		<#                			
+			}
+			else
+			{
+			#>
+				sp.Command.AddParameter("<#=par.Name#>",<#= par.Nullable && par.ShouldBeNullable  ?  par.SysType +"?" : "" #> <#= par.CleanName #>,DbType.<#=par.DbType#>,<#=par.ParameterMode#>);
+			<#}#>		
+<#      }#>
+            return sp;
+        }
+<#  }#>
+	
+	}
+	
+}
+<#  }#> 

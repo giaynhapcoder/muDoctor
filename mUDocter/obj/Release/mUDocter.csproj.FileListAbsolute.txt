@@ -1,0 +1,346 @@
+D:\Project\UDocter\mUDocter\mUDocter\bin\mUDocter.dll.config
+D:\Project\UDocter\mUDocter\mUDocter\bin\mUDocter.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\mUDocter.pdb
+D:\Project\UDocter\mUDocter\mUDocter\bin\Kaio.Web.UI.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\mUDocter.Business.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\Newtonsoft.Json.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Net.Http.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Net.Http.Formatting.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Net.Http.WebRequest.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.Helpers.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.Http.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.Http.WebHost.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.Mvc.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.Razor.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.WebPages.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\MongoDB.Bson.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\MongoDB.Driver.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\SubSonic.Core.dll
+D:\Project\UDocter\mUDocter\mUDocter\bin\Kaio.Web.UI.pdb
+D:\Project\UDocter\mUDocter\mUDocter\bin\mUDocter.Business.pdb
+D:\Project\UDocter\mUDocter\mUDocter\bin\Newtonsoft.Json.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Net.Http.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Net.Http.Formatting.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Net.Http.WebRequest.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.Helpers.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.Http.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.Http.WebHost.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.Mvc.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.Razor.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.WebPages.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\MongoDB.Bson.xml
+D:\Project\UDocter\mUDocter\mUDocter\bin\MongoDB.Driver.xml
+D:\Project\UDocter\mUDocter\mUDocter\obj\Release\mUDocter.csprojResolveAssemblyReference.cache
+D:\Project\UDocter\mUDocter\mUDocter\obj\Release\mUDocter.dll
+D:\Project\UDocter\mUDocter\mUDocter\obj\Release\mUDocter.pdb
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\obj\Release\mUDocter.csprojResolveAssemblyReference.cache
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\obj\Release\mUDocter.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\obj\Release\mUDocter.pdb
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\mUDocter.dll.config
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\mUDocter.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\mUDocter.pdb
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\Kaio.Web.UI.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\mUDocter.Business.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\Newtonsoft.Json.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\System.Web.Helpers.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\System.Web.Mvc.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\System.Web.Razor.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\System.Web.WebPages.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\SubSonic.Core.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\MongoDB.Bson.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\MongoDB.Driver.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\mUDocter.Business.pdb
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\Kaio.Web.UI.pdb
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\Newtonsoft.Json.xml
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\System.Web.Helpers.xml
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\System.Web.Mvc.xml
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\System.Web.Razor.xml
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\System.Web.WebPages.xml
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.xml
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\MongoDB.Bson.xml
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter\bin\MongoDB.Driver.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll.config
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.pdb
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\SubSonic.Core.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.pdb
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.pdb
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.csprojResolveAssemblyReference.cache
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.pdb
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll.config
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.pdb
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\SubSonic.Core.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.pdb
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.pdb
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.xml
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.xml
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.xml
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.xml
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.xml
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.xml
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.xml
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.xml
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.csprojResolveAssemblyReference.cache
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.dll
+C:\Users\q0903\Desktop\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.pdb
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll.config
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.pdb
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\SubSonic.Core.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.pdb
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.pdb
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.csprojResolveAssemblyReference.cache
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.pdb
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll.config
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.pdb
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\SubSonic.Core.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.pdb
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.pdb
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.csprojResolveAssemblyReference.cache
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.pdb
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.csprojResolveAssemblyReference.cache
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.pdb
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll.config
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\mUDocter.pdb
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\SubSonic.Core.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.dll
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.pdb
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.pdb
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.xml
+C:\Users\q0903\Desktop\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.xml
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll.config
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\mUDocter.pdb
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\SubSonic.Core.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.pdb
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.pdb
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.xml
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.xml
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.xml
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.xml
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.xml
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.xml
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.xml
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.xml
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.csprojResolveAssemblyReference.cache
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.dll
+C:\Users\Macbook\Desktop\mUDocter3 (1)\mUDocter3 (1)\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.pdb
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\LinqToExcel.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\Remotion.Data.Linq.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\Remotion.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\Remotion.Interfaces.dll
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\bin\LinqToExcel.xml
+C:\Users\Macbook\Desktop\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.csproj.ResolveComReference.cache
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll.config
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.pdb
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\SubSonic.Core.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.pdb
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.pdb
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.xml
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.xml
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.xml
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.xml
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.xml
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.xml
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.xml
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.xml
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.csprojResolveAssemblyReference.cache
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.csproj.ResolveComReference.cache
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.pdb
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\log4net.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\log4net.xml
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\ALEX.Library.SpreadsheetDocument.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\DocumentFormat.OpenXml.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\LinqToExcel.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\Remotion.Data.Linq.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\Remotion.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\Remotion.Interfaces.dll
+C:\Users\GiayNhap\Desktop\mUDocter3\mUDocter\mUDocter\bin\LinqToExcel.xml
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll.config
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.pdb
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\ALEX.Library.SpreadsheetDocument.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\DocumentFormat.OpenXml.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\LinqToExcel.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\log4net.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Remotion.Data.Linq.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Remotion.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Remotion.Interfaces.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\SubSonic.Core.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\mUDocter.Business.pdb
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Kaio.Web.UI.pdb
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\LinqToExcel.xml
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\log4net.xml
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\Newtonsoft.Json.xml
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Helpers.xml
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Mvc.xml
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.Razor.xml
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.xml
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\System.Web.WebPages.Razor.xml
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Bson.xml
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\bin\MongoDB.Driver.xml
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.csprojResolveAssemblyReference.cache
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.csproj.ResolveComReference.cache
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.dll
+C:\Users\NIWm\Desktop\mUDocter3\mUDocter3\mUDocter\mUDocter\obj\Release\mUDocter.pdb

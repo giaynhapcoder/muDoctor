@@ -1,0 +1,14 @@
+D:\Project\UDocter\mUDocter\mUDocter.Business\bin\Debug\mUDocter.Business.dll.config
+D:\Project\UDocter\mUDocter\mUDocter.Business\bin\Debug\mUDocter.Business.dll
+D:\Project\UDocter\mUDocter\mUDocter.Business\bin\Debug\mUDocter.Business.pdb
+D:\Project\UDocter\mUDocter\mUDocter.Business\bin\Debug\SubSonic.Core.dll
+D:\Project\UDocter\mUDocter\mUDocter.Business\obj\Debug\mUDocter.Business.dll
+D:\Project\UDocter\mUDocter\mUDocter.Business\obj\Debug\mUDocter.Business.pdb
+D:\Project\UDocter\mUDocter\mUDocter.Business\obj\Debug\mUDocter.Business.csprojResolveAssemblyReference.cache
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter.Business\bin\Debug\mUDocter.Business.dll.config
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter.Business\bin\Debug\mUDocter.Business.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter.Business\bin\Debug\mUDocter.Business.pdb
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter.Business\bin\Debug\SubSonic.Core.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter.Business\obj\Debug\mUDocter.Business.csprojResolveAssemblyReference.cache
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter.Business\obj\Debug\mUDocter.Business.dll
+C:\Users\GiayNhap\Desktop\mUDocter\mUDocter\mUDocter.Business\obj\Debug\mUDocter.Business.pdb

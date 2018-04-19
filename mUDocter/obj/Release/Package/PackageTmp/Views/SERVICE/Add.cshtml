@@ -1,0 +1,48 @@
+﻿@using Kaio.Web.UI
+@model SERVICE_UD
+
+<div id="page-wrapper">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Dịch vụ ý tế</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Dịch vụ ý tế
+                </div>
+                <div class="panel-body">
+                    <form role="form" action="/SERVICE/Save" method="POST">
+                        <input type="hidden" name="Id" value="@Model.id" />
+                        <div class="row">
+                            <div class="col-lg-6">
+
+                                <div class="form-group">
+                                    <label>Tên</label>
+                                    @Html.TextBoxFor(x => x.name, new { @class = "form-control", @placeholder = "Tên", @required = "required" })
+                                </div>
+                                <div class="form-group">
+                                    <label>Thứ tự</label>
+                                    @Html.TextBoxFor(x => x.orders, new { @class = "form-control", @placeholder = "Thứ tự" })
+                                </div>
+                                <div class="form-group">
+                                    <label>Trạng thái</label>
+                                    @Html.DropDownListFor(x => x.status, HtmlExtensions.ToSelectList<StatusGlobal>(), new { @class = "form-control" })
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <button type="submit" class="btn btn-primary">Cập nhập</button>
+                                <button type="reset" class="btn btn-default">Làm mới</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

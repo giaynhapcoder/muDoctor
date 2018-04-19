@@ -1,0 +1,82 @@
+<#@ include file="SQLServer.ttinclude" #>
+<#
+
+    var tables = LoadTables();
+
+    foreach(Table tbl in tables)
+    {
+	    if(!ExcludeTables.Contains(tbl.Name))
+        {
+		
+#>
+/*
+using System.Collections.Generic;
+
+namespace <#=Namespace #>    
+{    
+    /// <summary>
+    /// A class which represents the <#=tbl.Name #> table in the <#=DatabaseName#> Database.
+    /// </summary>
+    public class <#=tbl.Name #>Repo
+    {
+		public static void Save(<#=tbl.Name #> obj)
+        {
+		    <# 
+				var strID = "";
+				var str = ""; 
+				var stri = "";
+			#>
+			<#
+				var i = 0;
+				foreach(Column col in tbl.Columns)
+				{
+					if(i == 0){
+						strID = col.CleanName;
+						str = "obj." +col.CleanName;
+					}else{
+						str = str + ", " + "obj." + col.CleanName;
+						if (i==1){
+							stri = "obj." + col.CleanName;
+						}else{
+							stri = stri + ", " + "obj." + col.CleanName;
+						}
+					}					
+					i++;	
+				}
+			#>
+			if (obj.<#=strID #> > 0)
+            {
+                new MainDB().<#=tbl.Name #>_Update(<#=str #>).Execute();
+            }
+			else
+			{
+				new MainDB().<#=tbl.Name #>_Insert(<#=stri #>).Execute();								
+			}			
+        }
+		public static <#=tbl.Name #> GetByID(int id)
+        {
+            var list = new MainDB().<#=tbl.Name #>_SelectRow(id).ExecuteTypedList<<#=tbl.Name #>>();
+            if (list.Count > 0)
+                return list[0];
+            return null;
+        }
+		public static List<<#=tbl.Name #>> List()
+        {
+            return new MainDB().<#=tbl.Name #>_SelectAll().ExecuteTypedList<<#=tbl.Name #>>();
+        }
+
+        public static void Delete(int id)
+        {
+            new MainDB().<#=tbl.Name #>_DeleteRow(id).Execute();
+        }
+    } 
+}
+
+*/
+<#
+	SaveOutput(tbl.Name+"Repo.cs");
+        }
+
+    }
+#>
+

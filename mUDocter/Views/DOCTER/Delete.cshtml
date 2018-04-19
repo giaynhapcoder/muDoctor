@@ -1,0 +1,69 @@
+﻿@model IEnumerable<DOCTER_UD>
+
+<div id="page-wrapper">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Tỉnh thành phố</h1>
+        </div>
+    </div>
+    <!-- /.row -->
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            Tỉnh thành phố
+                        </div>
+                        <div class="col-sm-6 text-right">
+                            <a href="/DOCTER/Add" class="btn btn-primary btn-xs"><i class="glyphicon-plus"></i> Thêm mới</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    @if (Model != null)
+                    {
+                        int i = 0;
+                        <table class="table table-striped table-bordered table-hover" id="dataTables-example">
+                            <thead>
+                                <tr>
+                                    <th>STT</th>
+                                    <th>MÃ</th>
+                                    <th>Tên</th>
+                                    <th>Avatar</th>
+                                    <th>Trạng thái</th>
+                                    <th style="width: 100px;text-align: center">Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var _x in Model)
+                                {
+                                    i++;
+                                    <tr>
+                                        <td>@i</td>
+                                        <td>@_x.id</td>
+                                        <td>@_x.name</td>
+                                        <td>
+                                            <img id="img-preview" src="@(string.IsNullOrWhiteSpace(_x.avartar) ? "/Uploads/no-images.png" : _x.avartar)" width="30px" />
+                                        </td>
+                                        <td>@StringHelper.ConvertStatus(_x.status)</td>
+                                        <td style="text-align: center">
+
+                                            <a href="/Booking?id=@_x.id" class="btn btn-warning btn-xs" title="Lịch sử"><i class="fa fa-external-link"></i></a>
+                                            <a href="/DOCTER/Add?id=@_x.id" class="btn btn-primary btn-xs" title="edit"><i class="fa fa-edit"></i></a>
+                                            <a href="/DOCTER/Delete?id=@_x.id" class="btn btn-danger btn-xs" title="edit" onclick="return confirm('Are you sure?')"><i class="fa fa-trash-o"></i></a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }
+                </div>
+                <!-- /.panel-body -->
+            </div>
+            <!-- /.panel -->
+        </div>
+
+    </div>
+</div>

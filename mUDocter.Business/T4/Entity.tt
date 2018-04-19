@@ -1,0 +1,64 @@
+﻿<#@ include file="SQLServer.ttinclude" #>
+<#
+
+    var tables = LoadTables();
+
+    foreach(Table tbl in tables)
+    {
+	    if(!ExcludeTables.Contains(tbl.Name))
+        {
+		
+#>
+/*
+namespace <#=Namespace #>    
+{    
+    /// <summary>
+    /// A class which represents the <#=tbl.Name #> table in the <#=DatabaseName#> Database.
+    /// </summary>
+    public class <#=tbl.Name #>
+    {
+               
+
+<#
+            foreach(Column col in tbl.Columns)
+            {
+
+			if (tbl.ClassName == col.CleanName)
+			{
+				col.CleanName += "X";
+			}
+#>
+        
+        public <#=col.SysType #><#=CheckNullable(col)#> <#=col.CleanName #> {get; set; }
+<#
+        }
+#>
+             
+
+    } 
+}
+
+*/
+/*
+columns: [<# foreach(Column col in tbl.Columns){if (tbl.ClassName == col.CleanName){col.CleanName += "X";}#>
+	{ field: "<#=col.CleanName #>", title: getColumnString('<#=col.CleanName #>') },
+	<#}#>
+}],
+
+
+
+
+<# foreach(Column col in tbl.Columns){ #>
+	$("#<#=col.CleanName #>").val(dataItem.<#=col.CleanName #>);
+<#}#>
+
+
+
+*/
+<#
+	SaveOutput(tbl.Name+".cs");
+        }
+
+    }
+#>
+
